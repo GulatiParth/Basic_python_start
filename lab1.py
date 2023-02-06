@@ -1,6 +1,5 @@
 #
 # Author: Parth Gulati
-# Student Number: 131697211
 #
 # Place the code for your lab 1 here.  Read the specs carefully.  
 # Function name must be exactly as provided.  
@@ -10,7 +9,6 @@
 #     python test_lab1.py
 #
 # Author: Parth Gulati
-# Student Number: 131697211
 #
 
 # Function to determine the winner in a game of Rock-Paper-Scissors
